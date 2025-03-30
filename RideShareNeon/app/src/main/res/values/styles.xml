@@ -1,0 +1,34 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/bg_black</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+    <!-- Neon button style -->
+    <style name="NeonButton" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:background">@drawable/btn_neon_blue</item>
+        <item name="android:shadowColor">@color/neon_blue</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">10</item>
+    </style>
+
+    <!-- Neon text style -->
+    <style name="NeonText">
+        <item name="android:textColor">@color/neon_blue</item>
+        <item name="android:shadowColor">@color/neon_blue</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">10</item>
+    </style>
+</resources>
