@@ -1,0 +1,28 @@
+<![CDATA[
+<resources>
+    <string name="app_name">RideShare Neon</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="signup_title">Create Account</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Sign Up</string>
+    <string name="request_ride">Request Ride</string>
+    <string name="offer_ride">Offer Ride</string>
+    <string name="from_hint">From</string>
+    <string name="to_hint">To</string>
+    <string name="date_hint">Date</string>
+    <string name="time_hint">Time</string>
+    <string name="search_btn">Search</string>
+    <string name="monthly">Monthly</string>
+    <string name="quarterly">Quarterly</string>
+    <string name="yearly">Yearly</string>
+    <string name="chatbot_welcome">Hi! I'm your RideShare assistant. How can I help?</string>
+    <string name="fare_rate">₹20/km</string>
+    <string name="estimated_fare">Estimated Fare: %s</string>
+    <string name="regular_commute">Regular Commute</string>
+    <string name="one_time_ride">One-time Ride</string>
+    <string name="chat_hint">Type your message...</string>
+    <string name="send_btn">Send</string>
+</resources>
+]]>
