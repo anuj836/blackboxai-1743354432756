@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base colors -->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#00FFFF</color>
+    
+    <!-- Neon theme colors -->
+    <color name="neon_blue">#00FFFF</color>
+    <color name="neon_pink">#FF00FF</color>
+    <color name="neon_green">#00FF00</color>
+    <color name="neon_purple">#9900FF</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CCCCCC</color>
+    
+    <!-- Background colors -->
+    <color name="bg_dark">#111111</color>
+    <color name="bg_black">#000000</color>
+    
+    <!-- Button colors -->
+    <color name="btn_neon_blue">#00FFFF</color>
+    <color name="btn_neon_pink">#FF00FF</color>
+    <color name="btn_neon_green">#00FF00</color>
+    
+    <!-- Gradient colors -->
+    <color name="gradient_start">#000000</color>
+    <color name="gradient_end">#111111</color>
+</resources>
